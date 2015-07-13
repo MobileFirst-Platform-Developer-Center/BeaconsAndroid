@@ -1,13 +1,17 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Beacons in Android
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**Server-side**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/advanced-topics/working-with-beacons/
 
+**Android**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/advanced-topics/working-with-beacons/beacons-in-android/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
